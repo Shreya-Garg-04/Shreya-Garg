@@ -1,6 +1,6 @@
 # Shreya Garg
 
-Hi! I'm Shreya, a B.Tech Computer Science Engineering student at the College of Engineering Roorkee (2020–2026), aspiring to become a *DevOps Engineer*.
+Hi! I'm Shreya, a B.Tech Computer Science Engineering student at the College of Engineering Roorkee (2022–2026), aspiring to become a *DevOps Engineer*.
 
 ## About Me
 - Currently exploring the fundamentals of DevOps through the IBM DevOps and Software Engineering Professional Certificate.
